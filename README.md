@@ -19,7 +19,7 @@ The dataset structure follows the general structure of the TUM RGBD dataset.
 
 Each sequence is labelled as `Trj_X1_X2_X3_X4`, where `X1` is the numerical index across all 49 sequences; `X2` is the trajectory name; `X3` indicates the mirror size; `X4` indicates if the mirror is visible (W) or covered (C). If there is no mirror, then `X3` and `X4` are replaced with `No_Mirror`.
 
-The RGB frames and depth frames have slightly differing timestamps. During experiments they were associated together using the `associate.py` python script available from the [TUM RGBD dataset tools] (https://cvg.cit.tum.de/data/datasets/rgbd-dataset/tools)
+The RGB frames and depth frames have slightly differing timestamps. During experiments they were associated together using the `associate.py` python script available from the [TUM RGBD dataset tools](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/tools)
 
 `Trj_X1_X2_X3_X4`  
 |----`calib`  
