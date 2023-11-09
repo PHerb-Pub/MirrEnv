@@ -49,7 +49,7 @@ Each sequence is labelled as `Trj_X1_X2_X3_X4`, where `X1` is the numerical inde
 |&emsp;|&emsp;|----`rgb`  
 |&emsp;|&emsp;|&emsp;|----`timestamp.png` (24-bit rgb image, 640x480)  
 |&emsp;|&emsp;|&emsp;|----`......`  
-|&emsp;|&emsp;|----`masks`  (only available in sequences containing mirrors, ie. X4 = W)
+|&emsp;|&emsp;|----`masks`  (only available in sequences containing mirrors, ie. X4 = W)  
 |&emsp;|&emsp;|&emsp;|----`timestamp.png` (8-bit binary image, 640x480)  
 |&emsp;|&emsp;|&emsp;|----`......`  
 |&emsp;|&emsp;|----`c_names.txt` (filenames of rgb frames)  
