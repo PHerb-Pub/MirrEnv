@@ -7,7 +7,7 @@ Each of these 7 mirror presence varieties was combined with 7 pre-calculated rob
 Binary masks for the mirror region are provided for every 10th frame of sequences containing mirrors.
 Mirror presence in these sequences has been analysed and disucssed further in the paper (see [publication](#publication)).
 
-![picture alt]([https://github.com/PHerb-Pub/MirrEnv/blob/main/site_assets/size%20of%20mirrors.png](https://github.com/PHerb-Pub/MirrEnv/blob/main/site_assets/types%20of%20sequences.png) "Types of image sequences with different mirror presence.")
+![picture alt](https://github.com/PHerb-Pub/MirrEnv/blob/main/site_assets/types%20of%20sequences.png "Types of image sequences with different mirror presence.")
 
 An Intel RealSense D435i RGBD camera was calibrated and attached to the end-effector (EEF) of a KUKA IIWA 14R820 manipulator arm.
 The transformation between the camera position and the EEF position was determined through Hand-Eye calibration. This calibration data is also available as a part of the dataset.
