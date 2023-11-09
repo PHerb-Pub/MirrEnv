@@ -53,7 +53,7 @@ The RGB frames and depth frames have slightly differing timestamps. During exper
 |&emsp;|&emsp;|----`depth.mp4` (original video of depth frames)  
 |&emsp;|&emsp;|----`rgb.avi` (original video of rgb frames)   
 |&emsp;|----`poses`  
-|&emsp;|&emsp;|----`Qposes.txt` (Camera pose relative to the base of the robot base, XYZ position and unit quaternion pose) TODO: check definition   
+|&emsp;|&emsp;|----`Qposes.txt` (Camera pose relative to the base of the robot base, XYZ position in metres and unit quaternion pose)
   
   
 
