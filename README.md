@@ -60,6 +60,8 @@ The RGB frames and depth frames have slightly differing timestamps. During exper
 
 ## Publication
 
-Link to Paper
+Paper:
+Herbert, P., Wu, J., Ji, Z. et al. Benchmarking visual SLAM methods in mirror environments. Comp. Visual Media 10, 215–241 (2024). [https://doi.org/10.1007/s41095-022-0329-x](https://doi.org/10.1007/s41095-022-0329-x)
 
-Link to Dataset
+Dataset:
+Herbert P, Wu J, Ji Z, et al. (2023). MirrEnv: a benchmarking dataset for visual SLAM in mirror environments. Cardiff University. [https://doi.org/10.17035/d.2023.0292477898](https://doi.org/10.17035/d.2023.0292477898)
