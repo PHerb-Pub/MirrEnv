@@ -34,7 +34,7 @@ The RGB frames and depth frames have slightly differing timestamps. During exper
 |&emsp;|----`poses`  
 |&emsp;|&emsp;|----`#timestamp#.txt` (4x4 rigid body transformation from robot base to robot EEF)  
 |&emsp;|&emsp;|----`......`  
-|&emsp;|----`calib_X.txt` (4x4 rigid body transformation from robot EEF to Camera)  
+|&emsp;|----`calib.txt` (4x4 rigid body transformation from robot EEF to Camera)  
 |&emsp;|----`DepthFactor.txt` (relative scaling of depth iamge values to physical distance in meters - used in ORB-SLAM RGBD methods)  
 |&emsp;   
 |----`trj`  
